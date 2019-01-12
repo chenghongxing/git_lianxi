@@ -3,6 +3,7 @@ package com.cheng.test.domain;
 public class Laowang {
     private String anme;
     private String sta;
+    private String man;
 
     public String getAnme() {
         return anme;
