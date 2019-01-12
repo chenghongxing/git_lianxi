@@ -7,5 +7,4 @@ package com.cheng.test.domain;
  * @data(开发日期) ： 2018/12/13 13:42
  */
 public class Test {
-    private String name;
 }
